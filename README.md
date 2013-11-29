@@ -5,7 +5,9 @@ C++ parser for MicroXML &lt;http://dvcs.w3.org/hg/microxml/raw-file/tip/spec/mic
 
 For full documentation, download mxlparser_omnihelp.zip, unzip in its own directory, and double-click \_mxlparser.htm.
 
-For those interested in uDoc, a public-domain markup language using MicroXML, download ud_spec_omnihelp.zip, unzip in its own directory, and double-click \_ud_spec.htm.  Or download Word doc in ud_spec_doc.zip.  For the uDoc source, also get ud_spec_src.zip and ud_spec_lib.zip.  The spec src is a good test case for the parser, which is also described in the spec in Appendix D.
+For testing, download mxlexe.zip to get the mxl.exe driver and mxlparser.dll for Windows.  The C++ source for the driver is in mxlsrc.zip.
+
+For those interested in uDoc, a public-domain markup language using MicroXML, go to the uDoc repository and download ud_spec_omnihelp.zip, unzip it in its own directory, and double-click \_ud_spec.htm.  Or download Word doc in ud_spec_doc.zip.  For the uDoc source, also get ud_spec_src.zip and ud_spec_lib.zip.  The spec src is a good test case for the parser, which is also described in the spec in Appendix D.
 
 Related repositories here are for OmniHelp at &lt;https://github.com/jeremygriffith/OmniHelp&gt; and for uDoc at &lt;https://github.com/jeremygriffith/uDoc-Document-Markup-Language&gt;.
 
